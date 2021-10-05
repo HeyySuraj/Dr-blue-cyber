@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dr-blue-cyber" alt="dr-blue-cyber" /></a> </p>
 
-<img align="right" alt="cat-kyaw" width="400" src="https://cdn.dribbble.com/users/2844289/screenshots/9975802/media/4474fa216f3c7c7b572e0e851e406dfc.gif" >
+<img align="right" alt="cat-kyaw" width="400" src="https://user-images.githubusercontent.com/85605208/135983290-9cf97814-7539-41c8-bbd1-f187f9b7bcb4.gif" >
+ 
+
 
 - 🔭 I’m currently working on [covid-detection](https://github.com/Dr-blue-cyber/covid-detection)
 

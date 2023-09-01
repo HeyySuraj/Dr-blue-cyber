@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dr-blue-cyber</h1>
+<h1 align="center">Hi 👋, This is SURAJ BHANARKAR</h1>
 <h3 align="center">Walked though here to see my coding journey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dr-blue-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="dr-blue-cyber" /> </p>
